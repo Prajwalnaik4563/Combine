@@ -5,6 +5,7 @@ A modern, interactive, and professional **developer portfolio website** built to
 Designed with a **clean black theme**, smooth animations, and developer-focused UI.
 
 ---
+View Live:-
 
 ## ✨ Features
 
@@ -115,7 +116,7 @@ You can easily customize:
 * Dark/Light mode toggle
 * Resume download buttons
 
----
+
 
 ## 🤝 Credits
 
@@ -124,21 +125,9 @@ Designed & developed by
 
 > A portfolio built with focus on clarity, performance, and professionalism.
 
----
 
 ## 📄 License
 
 This project is open-source and free to use for personal portfolio purposes.
 
-```
 
----
-
-If you want, I can also:
-- Add **badges** (HTML, CSS, JS, AI/ML)
-- Create a **GitHub-optimized README with screenshots**
-- Write a **short bio version** for recruiters
-- Add **deployment instructions (GitHub Pages / Vercel)**
-
-Just say **“upgrade README”** 👍
-```
